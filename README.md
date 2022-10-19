@@ -4,7 +4,7 @@
 
 ### Team work dynamics:
 The team must coordinate to finish out the following project:
-Make a simple web page, (without design or paraphernalia) that detects the word "easteregg", if it'ss entered correctly, the page shows an alert with the message: "You got a chocolate!".
+Make a simple web page, (without design or paraphernalia) that detects the word "easteregg", if it's entered correctly, the page shows an alert with the message: "You got a chocolate!".
 
 ### Rules:
 - JS Vanilla or React can be used, at the team's choice.
